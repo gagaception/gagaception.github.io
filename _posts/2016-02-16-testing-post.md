@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Aziz Sharipov, Passionate Web Dev, Launches Site"
+date: 2016-02-16
+---
 James Coglan, a Developer at FutureLearn, explains a common problem with STI and how we refactored our Rails app to solve it.
 
 Single-table inheritance (STI) is the practice of storing multiple types of values in the same table, where each record includes a field indicating its type, and the table includes a column for every field of all the types it stores. In Rails, the type column is used to determine which type of model to instantiate for each row; a row with type = 'Article' will make Rails call Article.new when turning that row into an object.
