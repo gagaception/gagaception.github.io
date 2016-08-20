@@ -37,8 +37,9 @@ footer {
    left:0px;
    bottom:0px;
    height:30px;
-   width:100%;
-   background:#999;
+   margin: 60px auto;
+   width:70%;
+   background-color:#999;
    font-size: .8em;
    color: white;
 }
