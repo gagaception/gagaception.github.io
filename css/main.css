@@ -27,11 +27,12 @@ h1 {
     font-size: 3em;
     font-family:"nyt-cheltenham",georgia,"times new roman",times,serif;
 }
-p {
+p, ol li {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
+
 footer {
    position:fixed;
    /*left:0px;*/
