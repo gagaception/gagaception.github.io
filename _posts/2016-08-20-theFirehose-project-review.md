@@ -13,7 +13,7 @@ And now after over 1 year of graduation from the Firehose Project and 8 month wo
 
 This 12 weeks in the Firehose Project gave me more coding and life experience than 4 years in university. By the way about my background before the Firehose Project - my speciality is «Automation and Control» and I worked as an engineer in local company. Being an engineer might be interesting too, but it wasn’t my dream job.
 
-I don’t want to repeat others the Firehose Project students reviews about want you will learn, you can always check the curriculum there http://www.thefirehoseproject.com. I just want to mention most valuable lessons that I have learned during my education:
+I don’t want to repeat others the Firehose Project students reviews about want you will learn, you can always check the curriculum there <a href="http://www.thefirehoseproject.com">theFireHose Project</a>. I just want to mention most valuable lessons that I have learned during my education:
 <ol>
 	<li>You will learn how to find right solution own your own. Googling is our everything, but don’t forget to spent time for reading code and understanding it. Don’t just copy and paste.</li>
 	<li>During your mentor session you will learn how to ask RIGHT QUESTIONS to your Senior mentor - it’s very important skill for Junior Developer.</li>
@@ -26,7 +26,7 @@ Now about how I started my carrier as a web - developer. As told earlier, I was 
 
 In my case, after graduation from the Firehose project, I spend 2 month searching for job, it might sound not very optimistic, but in our reality there are lots of developer without any real experience (same was I and maybe you) and if you want to be noticed you have to understand this fact and start think different while you are in search of job. Be honest with yourself about your coding skills, don’t embellish them in your CV. I was interviewed more than 40 times. Of course it is not very pleasant to hear refusal, but you have to find profit even from them. I was asked lots of questions, the answers to which I didn’t know, but after each interview I spent time searching for answers. In my CV I wrote about my coding journey with the Firehose Project, I wrote that i super passionate about programming and ready to start working as trainee.
 
-<h4>It is not the question about money when you start your carrier as a programer.</h4>
+<b>It is not the question about money when you start your carrier as a programer.</b>
 
 I was honest with my future employer and he saw my serious mood to become cool web - developer. And now I’m working in one of the best company in Kazakhstan, with great colleagues. After few month Senior - developer - his name is Alex, who was checking CVs told me that he insisted on that I was accepted to work, because from 150 CVs I was only one who told the truth about programming skills and did something in the beginning of my carrier (participated in the Firehose Project bootcamp) and he saw my serious attitude and my passion. By the way, now he is my good friend and my mentor. With his help I found out about local coding community and now I’m participating in all meet-ups and conference.
 
